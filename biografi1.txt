@@ -1,0 +1,4 @@
+NAMA    : RYAN 
+NIM     : 98799
+NO      : 1
+JURUSAN : INFORMATIKA
